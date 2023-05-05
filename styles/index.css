@@ -9,7 +9,7 @@
 body{
     width: 100%;
 }
-#top-web-btns {
+.top-web-btns {
     padding: 0 50px;
     padding-top: 50px;
     display: grid;
@@ -48,4 +48,7 @@ body{
 }
 #us-bank{
     background: #3037f5;
+}
+#yahoo{
+    background: #20ab40;
 }
